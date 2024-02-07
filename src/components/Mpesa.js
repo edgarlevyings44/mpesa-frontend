@@ -8,7 +8,7 @@ function Mpesa() {
 
   const payHandler = (event) => {
     event.preventDefault();
-    Axios.post("http://localhost:5000/token", {
+    Axios.post("https://mpesa-billing.onrender.com/token", {
       amount,
       phone,
     })
