@@ -1,0 +1,21 @@
+/* Mpesa.css */
+/* Mpesa.css */
+.input {
+  background-color: #f0f0f0;
+  text-align: center;
+  border-radius: 15px;
+  margin-bottom: 15px;
+  width: 200px; /* Set the width as desired */
+  height: 30px; /* Set the height as desired */
+}
+
+.button {
+  background-color: #008000;
+  color: #ffffff;
+  padding: 10px 80px;
+  border-radius: 20px;
+}
+
+.greenText {
+    color: green;
+  }
